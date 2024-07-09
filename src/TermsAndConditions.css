@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.head{
+    text-align: center;
+    color: rgb(70,17,166);
+    font-family: "Kalam";
+    font-size: 45px;
+    margin-top: 45px;
+    font-weight: bolder;
+}
+.subhead{
+    margin-left: 17%;
+    margin-right: 17%;
+    color: rgb(70,17,166);
+    font-family: "Kalam";
+    font-size: 40px;
+}
+.para{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-weight: 500;
+}
+.subpara{
+    margin-left: 22%;
+    margin-right: 22%;
+    font-weight: 500;
+}
+.top{
+    background-color: #ffec04;
+    height: 70px;
+  }
+  
+  .menu{
+    margin-left: 900px;
+    margin-top: 10px;
+  }
+  
+  .headopt{
+    color: rgb(70,17,166);
+    font-size: 20px;
+    font-weight: 450;
+    font-family: "Roboto";
+    padding: 10px ;
+  }
+  
+  .directory{
+    font-size: 15px;
+    font-family: "Roboto";
+    height: 45px;
+    background-color: rgb(237, 240, 243);
+    margin-top: 10px;
+    width: 115%;
+  }
+  
+  .directoryname{
+    margin-left: 350px;
+    padding-top: 13px;
+    font-weight: 500;
+  }
+  .indexes{
+    vertical-align: top;
+  }
+  a{
+    text-decoration: none;
+  }
